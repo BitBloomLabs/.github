@@ -12,8 +12,8 @@ At Bit Bloom Labs, we focus on:
 Our Projects
 
     [http_headers](https://github.com/BitBloomLabs/http-headers): Is a JSON object containing all the standard http headers with some supporting information.
-    Fetcher: Fetcher is an SaaS API testing tool. Fetcher is in development now. The stack uses Vue.js for the UI and Golang for the backend.
-    Embargo: Embargo is a secrets management system. The API is inspired by a popular competitor, so it will feel familer. Embargo is in development now. Embargo is is written in Rust.
+    Fetcher: Fetcher is a SaaS API testing tool. Fetcher is in development now. The stack uses Vue.js for the UI and Golang for the backend.
+    Embargo: Embargo is a secrets management system. The API is inspired by a popular competitor, so it will feel familer. Embargo is in development now. Embargo is written in Rust.
 
 Get Involved
 
